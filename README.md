@@ -11,8 +11,8 @@
 - 📫 How to reach me  b20285@students.iitmandi.ac.in
  
  
- ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devharal&theme=tokyonight&show_icons=true&count_private=true)
- 
+ ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devharal&theme=tokyonight&show_icons=true&count_private=true)
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DevHaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdev" height="30" width="40" /></a>
