@@ -5,8 +5,8 @@
 
 
 # 👋 Hi, I’m Dev Haral
-- 👀 I’m interested in Web Development and ML enthusiastic.
-- 🌱 I’m currently learning Backend Develpoment.
+- 👀 I’m interested in Web Development and AI enthusiastic.
+- 🌱 I’m currently learning Backend Develpoment, Computer Vision and related AI.
 - 💞️ I’m looking to collaborate on above skills!
 - 📫 How to reach me  b20285@students.iitmandi.ac.in
  
