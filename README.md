@@ -4,7 +4,7 @@
   
 
 
-# 👋 Hi, I’m Dev Haral
+# 👋 Hi, I’m Dev Haral....
 - 👀 I’m interested in Web Development and AI enthusiastic.
 - 🌱 I’m currently learning Backend Develpoment, Computer Vision and related AI.
 - 💞️ I’m looking to collaborate on above skills!
