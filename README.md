@@ -5,10 +5,8 @@
 
 
 # 👋 Hi, I’m Dev Haral....
-- 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently learning NLP.
-- 💞️ I’m looking to collaborate on above skills!
-- 📫 How to reach me  b20285@students.iitmandi.ac.in.
+- 👀 Data Scientist@ Xenvolt AI
+- 🌱 Eco-Innovator.
 - This is my Portfolio <a href="https://devharal.github.io/porfolios/" target="blank">Dev</a>
  
  
