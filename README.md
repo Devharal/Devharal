@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!;I+am+Dev;&center=true&size=30">
   </a>
   
-
-
-# 👋 Hi, I’m Dev Haral....
 - 👀 Data Scientist@ Xenvolt AI
 - 🌱 Eco-Innovator.
 - This is my Portfolio <a href="https://devharal.github.io/porfolios/" target="blank">Dev</a>
